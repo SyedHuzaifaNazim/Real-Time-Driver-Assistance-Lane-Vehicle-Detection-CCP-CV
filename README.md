@@ -1,12 +1,12 @@
 # Advanced Driver Assistance System (ADAS) Pipeline
 
 ### 🚗 Output Video Demonstration
-*(Note: If the video does not play in your markdown viewer, you can view the raw `output_video.mp4` file in the project folder.)*
+*(A 5-second preview of the pipeline in action. For the full experience, view the raw `output_video.mp4` file in the project folder.)*
 
-<video src="output_video.mp4" controls="controls" width="100%" autoplay loop></video>
+![ADAS Output Demo](output_demo.gif)
 
 ## Overview
-![ADAS Banner](https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?auto=format&fit=crop&w=1200&q=80)
+![ADAS Banner](image.png)
 
 This project implements a Real-Time Driver Assistance Pipeline utilizing classical Computer Vision techniques and modern Deep Learning. It processes dashcam footage to provide critical safety features, including lane departure warnings, vehicle detection, tracking, proximity alerts, and traffic counting. 
 
