@@ -6,7 +6,7 @@
 ![ADAS Output Demo](output_demo.gif)
 
 ## Overview
-![ADAS Banner](image.png)
+![ADAS Banner](output_image.png)
 
 This project implements a Real-Time Driver Assistance Pipeline utilizing classical Computer Vision techniques and modern Deep Learning. It processes dashcam footage to provide critical safety features, including lane departure warnings, vehicle detection, tracking, proximity alerts, and traffic counting. 
 
