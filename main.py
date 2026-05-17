@@ -119,7 +119,7 @@ def main():
     counting_line_y = int(height * 0.7) # Line to cross for counting
     counted_ids = set()
     
-    speed_estimate = 65 # Base simulated speed
+    speed_estimate = 10 # Base simulated speed
     frame_count = 0
 
     print("Starting processing...")
